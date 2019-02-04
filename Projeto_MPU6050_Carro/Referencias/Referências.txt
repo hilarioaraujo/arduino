@@ -1,0 +1,51 @@
+DMP - Digital Motion Processor
+https://www.youtube.com/watch?v=GjHxwDLBh00
+http://www.geekmomprojects.com/mpu-6050-dmp-data-from-i2cdevlib/
+
+Angulos
+https://en.wikipedia.org/wiki/Degrees_of_freedom
+https://en.wikipedia.org/wiki/Yaw_(rotation)
+https://en.wikipedia.org/wiki/Gimbal_lock
+https://theccontinuum.com/2012/09/24/arduino-imu-pitch-roll-from-accelerometer/
+http://planning.cs.uiuc.edu/node102.html
+https://forum.arduino.cc/index.php?topic=407756.0
+
+
+Sensor MPU 6050
+http://www.phph.com.br/instrumentacao-menu/instrumentacao-eletronica/item/131-analise-da-comunicacao-i-c-entre-um-arduino-e-um-sensor-mpu-6050.html
+https://www.i2cdevlib.com/docs/html/class_m_p_u6050.html
+http://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-mpu6050/
+http://www.dobitaobyte.com.br/arduino-e-giroscopio-mpu6050/
+http://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/
+http://playground.arduino.cc/Main/MPU-6050
+https://www.embarcados.com.br/arduino-acelerometro-giroscopio/
+http://muerdelapple.blogspot.pt/2015/11/como-configurar-mpu-6050-arduino-listo.html
+http://www.naylampmechatronics.com/blog/45_Tutorial-MPU6050-Aceler%C3%B3metro-y-Giroscopio.html
+
+Kalman filter:
+http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
+https://home.wlu.edu/~levys/kalman_tutorial/
+
+Navegação inercial:
+https://en.wikipedia.org/wiki/Inertial_navigation_system
+
+
+Sensor Ponte H L298N
+https://portal.vidadesilicio.com.br/ponte-h-l298n-controle-velocidade-motor/
+https://www.filipeflop.com/blog/motor-dc-arduino-ponte-h-l298n/
+
+Bibliotecas:
+https://github.com/jrowberg/i2cdevlib
+https://github.com/ayushgaud/MPU6050
+
+Controlador PID
+http://forum.clubedocafe.net/topic/4114-fa%C3%A7a-seu-pr%C3%B3prio-pid-com-arduino/
+
+
+Sensor otico
+https://www.researchgate.net/publication/221645389_Dead_Reckoning_for_Mobile_Robots_Using_Two_Optical_Mice
+http://www.computer-engineering.org/ps2protocol/
+http://playground.arduino.cc/ComponentLib/Ps2mouse
+http://www.instructables.com/id/Optical-Mouse-Odometer-for-Arduino-Robot/
+https://makezine.com/2007/12/15/using-an-optical-mouse-for-rob/
+https://www.edn.com/design/sensors/4439292/Rotational--or-linear--measurement-using-an-optical-mouse-sensor
